@@ -42,6 +42,4 @@ across 5 product categories, 3 regions and 4 years.
 3. Use slicers to filter the dashboard interactively
 
 ## Author
-**Adeoye Adekunle (Scott)**
-Aspiring Data Analyst | Akure, Nigeria
-Goal: Full-time Data Analyst role by August 2026
+**Sai Madhuri**
